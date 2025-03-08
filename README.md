@@ -1,3 +1,3 @@
-# Praktikum_2
-menggunakan css
+# Praktikum_3
+menggunakan bootstrap
  
