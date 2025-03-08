@@ -1,3 +1,3 @@
-# Praktikum_3
-menggunakan bootstrap
+# Praktikum_1
+menggunakan html
  
